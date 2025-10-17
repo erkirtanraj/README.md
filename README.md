@@ -14,7 +14,7 @@
 - 📺 **YouTube Instructor:** [![YouTube](https://img.shields.io/badge/-Learn%20With%20KASTRO-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@LearnWithKASTRO)  
 - 🚀 **Trained 800+ professionals in AWS & DevOps**  
 - 🌟 **Helping professionals upskill & land top tech jobs!**  
-- 🌐 **More Courses:** [www.learnwithkastro.com](https://www.learnwithkastro.com)
+- 🌐 **More Courses:** [www.codegenius.guru](https://www.codegenius.guru/) 
 
 ---
 
@@ -30,7 +30,7 @@
 👔 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kastro-kiran/)  
 📺 **YouTube:** [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube)](https://www.youtube.com/@LearnWithKASTRO)  
 📱 **Join WhatsApp Group:** [![WhatsApp](https://img.shields.io/badge/WhatsApp-Join%20Group-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EGw6ZlwUHZc82cA0vXFnwm)  
-🌐 **Website:** [www.learnwithkastro.com](https://www.learnwithkastro.com)  
+🌐 **Website:** [www.codegenius.guru](https://www.codegenius.guru/) 
 
 ---
 
@@ -47,10 +47,10 @@
   ![Lines of Code](https://img.shields.io/badge/Total%20Lines%20of%20Code-1.5M%2B-blue?style=flat-square)  
 
 - 📅 **Commit Streak:**  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=KastroVKiran&theme=radical)  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=erkirtanraj&theme=radical)  
 
 ### Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=KastroVKiran&color=blue&style=flat-square)  
+![Profile Views](https://komarev.com/ghpvc/?username=erkirtanraj&color=blue&style=flat-square)  
 
 ---
 
