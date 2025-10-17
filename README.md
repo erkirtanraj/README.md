@@ -55,4 +55,4 @@
 ---
 
 🎉 *Thank you for visiting my GitHub! Don't forget to ⭐ my repositories!* 🚀  
-🌐 **Explore more courses on AWS & DevOps → [www.learnwithkastro.com](https://www.learnwithkastro.com)**  
+🌐 **Explore more courses on AWS & DevOps → [www.codegenius.guru](https://www.codegenius.guru/)**  
