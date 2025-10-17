@@ -1,9 +1,9 @@
-# 🌍 KASTRO's Tech Space 🚀  
+# 🌍 Kirtan Tech Space 🚀  
 **☁️ AWS | 🔧 DevOps | 🎥 Trainer | 🏆 Mentor**  
 
 💡 *Empowering Cloud enthusiasts with hands-on AWS & DevOps classes!*  
 
-🌐 **Explore more AWS & DevOps courses:** [www.learnwithkastro.com](https://www.learnwithkastro.com)  
+🌐 **Explore more AWS & DevOps courses:** [www.codegenius.guru](https://www.codegenius.guru/)  
 
 <img src="https://media.licdn.com/dms/image/v2/D5603AQHJB_lF1d9OSw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718971147172?e=1747267200&v=beta&t=L6h8BKPXRbbMoB99LcotWilLrK4llQ-y6wd6q9ZAHnQ" width="150" height="150" align="right" />
 
